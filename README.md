@@ -1,1 +1,1 @@
-# Amazon-Data-Analysis-project-using-AWS-Databricks-and-Snowflake
+# Data-Analysis-project-using-AWS-Databricks-Snoawflake-and-Power BI
